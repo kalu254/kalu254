@@ -25,7 +25,9 @@ In a recomposition state<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 
 - :zap: In my free time, I solve problems on LeetCode and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luka-macharia-javadev/)
+---
+
+### :hammer_and_wrench: Languages and Tools :
 
 
 </div>
