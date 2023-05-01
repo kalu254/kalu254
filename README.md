@@ -44,7 +44,7 @@ In a recomposition state<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 ---
 
 ### :fire: My Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username)](https://github.com/kalu254/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kalu254&layout=compact&theme=vision-friendly-dark)](https://github.com/kalu254/github-readme-stats)
 
 
 
