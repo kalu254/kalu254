@@ -19,9 +19,9 @@
 ### :man_technologist: About Me :
 In a recomposition state<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> changing my tech views.
     
-- :telescope: I’m working as a Software Engineer and creating robust, appealing and scalable apps.
+- :telescope: I’m working as a Software Engineer creating robust, appealing and scalable apps.
 
-- :seedling: Exploring other mobile technologies i.e IOS, React Native, Flutter and KMM.
+- :seedling: Exploring other mobile technologies e.g IOS, React Native, Flutter and KMM.
 
 - :zap: In my free time, I solve problems on LeetCode and read tech articles.
 
@@ -40,6 +40,12 @@ In a recomposition state<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>    
+    
+---
+
+### :fire: My Stats :
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username)](https://github.com/kalu254/github-readme-stats)
+
 
 
 </div>
