@@ -17,7 +17,7 @@
 ---
 
 ### :man_technologist: About Me :
-    I am an Android Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> always in the state of recomposing my view     of the mobile technology.
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
 
 </div>
