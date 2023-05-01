@@ -17,7 +17,7 @@
 ---
 
 ### :man_technologist: About Me :
-    I am a Mobile developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> always in the state of
+I am a Mobile developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> always in the state of
 
 
 </div>
