@@ -47,6 +47,8 @@ In a recomposition state<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 </br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kalu254&layout=compact&theme=vision-friendly-dark)](https://github.com/kalu254/github-readme-stats)
 
+---
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=rt41jcbexs9gtui0r7id08uc7&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
 </div>
