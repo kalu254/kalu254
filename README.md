@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTdhMTFkMjFhNTEwMThmMjVmOGMzYzk4M2M3OGEzMWIzYjBjMjAyYyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/3kPDmoWdBpQPNhCnUG/giphy.gif" width="100"/>
+    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTdhMTFkMjFhNTEwMThmMjVmOGMzYzk4M2M3OGEzMWIzYjBjMjAyYyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/3kPDmoWdBpQPNhCnUG/giphy.gif" width="500"/>
 </div>
 
 <div id="badges">
@@ -12,6 +12,7 @@
   <a href="https://twitter.com/254Kalu">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+    </br>
   <img src="https://komarev.com/ghpvc/?username=kalu254&style=flat-square&color=blue" alt=""/>
 
 
