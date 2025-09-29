@@ -2,7 +2,7 @@
   <table>
     <tr>
       <td>
-        <img src="YOUR_CLASS_IMAGE_URL" width="360" alt="Kotlin Class About Me"/>
+        <img src="images/kalu_class.png" width="360" alt="Kotlin Class About Me"/>
       </td>
       <td>
         <a href="https://app.daily.dev/arichama">
