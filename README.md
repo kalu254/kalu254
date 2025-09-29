@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <a href="https://app.daily.dev/arichama"><img src="https://api.daily.dev/devcards/v2/9o97LQ7kZ.png?r=g1s&type=wide" width="100%;" alt="Luka Macharia's Dev Card"/></a>
+    <a href="https://app.daily.dev/arichama"><img src="https://api.daily.dev/devcards/v2/9o97LQ7kZ.png?type=default&r=cb1" width="356" alt="Luka Macharia's Dev Card"/></a>
 </div>
 
 <div id="badges">
