@@ -27,41 +27,6 @@ In a recomposition state<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 
 ---
 
-
-```kotlin
-class Developer {
-    val name = "Luka Macharia"
-    val alias = "Kalu"
-    val role = "Senior Mobile Developer"
-    val location = "Nairobi, Kenya"
-
-    val expertise = listOf(
-        "Android 📱", "Kotlin ☕", "Go (Golang) 🦦", "Encryption & Security 🔐",
-        "Dependency Injection (Hilt) ⚡", "Networking (Retrofit) 🌐",
-        "Dynamic Feature Modules 🧩", "EMV Card Solutions 💳",
-        "Machine Learning (OCR + NER) 🤖", "Document AI Backends ☁️"
-    )
-
-    val currentlyWorkingOn = listOf(
-        "POS Transaction Security 🔐",
-        "Document AI Pipelines 📄",
-        "Cloud Backends in Go ☁️"
-    )
-
-    fun code() = "while(true) { learn(); build(); share() }"
-
-    fun introduce() = """
-        Hi, I'm $name a.k.a $alias 👋
-        Role: $role
-        Location: $location
-        Expertise: ${expertise.joinToString(", ")}
-        Current Focus: ${currentlyWorkingOn.joinToString(" | ")}
-        Philosophy: ${code()}
-    """.trimIndent()
-}
-
----
-
 ### :hammer_and_wrench: Languages and Tools :
     
 <div>
