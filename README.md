@@ -1,16 +1,16 @@
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="images/kalu_class.png" width="360" alt="Kotlin Class About Me"/>
-      </td>
-      <td>
-        <a href="https://app.daily.dev/arichama">
-          <img src="https://api.daily.dev/devcards/v2/9o97LQ7kZ.png?type=default&r=cb1" width="356" alt="Luka Macharia's Dev Card"/>
-        </a>
-      </td>
-    </tr>
-  </table>
+<table>
+  <tr>
+    <td>
+     <img src="images/kalu_class.png" style="height:400px; width:auto;" alt="Kotlin Class About Me"/>
+    </td>
+    <td>
+      <a href="https://app.daily.dev/arichama">
+        <img src="https://api.daily.dev/devcards/v2/9o97LQ7kZ.png?type=default&r=cb1" height="400" alt="Luka Macharia's Dev Card"/>
+      </a>
+    </td>
+  </tr>
+</table>
 </div>
 
 <div id="badges">
