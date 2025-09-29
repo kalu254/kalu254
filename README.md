@@ -1,10 +1,17 @@
-<div id="header" align="center">
-<div align="center" style="display: flex; justify-content: center; gap: 20px;">
-  <img src="images/kalu_class.png" width="360" alt="Kotlin Class About Me"/>
-  <a href="https://app.daily.dev/arichama">
-    <img src="https://api.daily.dev/devcards/v2/9o97LQ7kZ.png?type=default&r=cb1" width="356" alt="Luka Macharia's Dev Card"/>
-  </a>
-</div></div>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="YOUR_CLASS_IMAGE_URL" width="360" alt="Kotlin Class About Me"/>
+      </td>
+      <td>
+        <a href="https://app.daily.dev/arichama">
+          <img src="https://api.daily.dev/devcards/v2/9o97LQ7kZ.png?type=default&r=cb1" width="356" alt="Luka Macharia's Dev Card"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/luka-macharia-javadev">
