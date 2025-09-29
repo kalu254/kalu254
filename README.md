@@ -19,11 +19,46 @@
 ### :man_technologist: About Me :
 In a recomposition state<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> changing my tech views.
     
-- :telescope: I’m working as a Software Engineer creating robust, appealing and scalable apps.
+- :telescope: I’m working as a Software Engineer creating robust, appealing and scalable apps.  
 
-- :seedling: Exploring other mobile technologies e.g IOS, React Native, Flutter and KMM.
+- :seedling: Exploring other mobile technologies e.g IOS, React Native, Flutter and KMM.  
 
-- :zap: In my free time, I solve problems on LeetCode and read tech articles.
+- :zap: In my free time, I solve problems on LeetCode and read tech articles.  
+
+---
+
+
+```kotlin
+class Developer {
+    val name = "Luka Macharia"
+    val alias = "Kalu"
+    val role = "Senior Mobile Developer"
+    val location = "Nairobi, Kenya"
+
+    val expertise = listOf(
+        "Android 📱", "Kotlin ☕", "Go (Golang) 🦦", "Encryption & Security 🔐",
+        "Dependency Injection (Hilt) ⚡", "Networking (Retrofit) 🌐",
+        "Dynamic Feature Modules 🧩", "EMV Card Solutions 💳",
+        "Machine Learning (OCR + NER) 🤖", "Document AI Backends ☁️"
+    )
+
+    val currentlyWorkingOn = listOf(
+        "POS Transaction Security 🔐",
+        "Document AI Pipelines 📄",
+        "Cloud Backends in Go ☁️"
+    )
+
+    fun code() = "while(true) { learn(); build(); share() }"
+
+    fun introduce() = """
+        Hi, I'm $name a.k.a $alias 👋
+        Role: $role
+        Location: $location
+        Expertise: ${expertise.joinToString(", ")}
+        Current Focus: ${currentlyWorkingOn.joinToString(" | ")}
+        Philosophy: ${code()}
+    """.trimIndent()
+}
 
 ---
 
